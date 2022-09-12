@@ -3,12 +3,12 @@ let d = new Date(new Date + 3600000)
 let locale = 'id'
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri', true]  
+  ['6288279174046'],
+  ['6288279174046'],
+  ['6288279174046', 'Deffri', true]  
   
 ] 
-global.noowner = '6289509960601'
+global.noowner = '6288279174046'
 global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
 global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
 global.wm2 = [['Hoh']]
@@ -17,7 +17,7 @@ global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.log =  'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=outline-shadow-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.mods = []
-global.prems = ['6289509960601'] 
+global.prems = ['6288279174046'] 
 
 //+$&#-$:$!#(#;#!$(_!#+$;_)_!&
 global.fotonya1 = 'https://telegra.ph/file/3ee98976cb4f784eab41f.jpg' //ganti jadi foto bot mu
